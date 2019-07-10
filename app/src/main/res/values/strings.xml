@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">javaproject</string>
+    <string name="dilougeMessage">Do You want to close The App</string>
+    <string name="title">Alert Dilouge Box</string>
+    <string name="prompt">Choose the Country</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>Austrila</item>
+        <item>America</item>
+        <item>Uk</item>
+        <item>Usa</item>
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+    </string-array>
+    <string-array name="array_technology">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Php</item>
+        <item>Hadoop</item>
+        <item>Sap</item>
+        <item>Python</item>
+        <item>Ajax</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>Rails</item>
+        <item>.Net</item>
+        <item>Perl</item>
+    </string-array>
+</resources>

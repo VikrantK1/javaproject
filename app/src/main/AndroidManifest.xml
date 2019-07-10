@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vikrant.javaproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.custumlistView"></activity>
+        <activity android:name=".listrelated" />
+        <activity android:name=".Activity.spinner" />
+        <activity
+            android:name=".Activity.RadioButton"
+            android:label="Radio Button" />
+        <activity
+            android:name=".checkBox"
+            android:label="checked button" />
+        <activity
+            android:name=".Activity.MainActivity"
+            android:label="toogle Button">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
